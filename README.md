@@ -50,7 +50,7 @@ NaysaChatBot is an intelligent and interactive chatbot system designed to revolu
 ### **To Set Up Locally:**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ayesha19765/Smart-Chatbot-Integration-for-Enhanced-Food-Ordering-Experience.git
+   git clone (https://github.com/AarthiHonguthi/NaysaChatBot.git).git
    ```
 2. Navigate to the project directory:
    ```bash
